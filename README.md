@@ -1,6 +1,6 @@
 # DA6401 Assignment 2 — Visual Perception Pipeline
 
-**W&B Report:** `<paste your public W&B report link here>`  
+**W&B Report:** `[<paste your public W&B report link here>](https://wandb.ai/ma25m024-indian-institute-of-technology-madras/da6401_assignment2/reports/DA6401-Assignment-2--VmlldzoxNjQ4NzM1Mw?accessToken=zxmtk0yb2ia3med4tgz4bpj9rzte7rwav8q91u3e6i7xvaelph9cy2my83tmc86u)`  
 **GitHub Repo:** `<paste your GitHub repo link here>`
 
 ---
